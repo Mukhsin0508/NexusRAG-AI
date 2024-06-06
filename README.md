@@ -309,7 +309,7 @@ This demo is inspired by the [Chat Application with RAG Feature Toggle and Backe
   <tr>
     <td align="center">
         <a href="https://www.linkedin.com/in/muxsin-muxtorov-58b26221b/">
-            <img src="https://x.com/MukhsinMM7/photo" width="100px;" alt=""/><br />
+            <img src="(https://pbs.twimg.com/profile_images/1669408223344902154/2-6_p0tP_400x400.jpg)" width="100px;" alt=""/><br />
             <sub><b>Mukhsin Mukhtorov</b></sub>
         </a><br />
     </td>
