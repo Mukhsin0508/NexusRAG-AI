@@ -299,6 +299,26 @@ To execute tests, run:
 - [ ] `► ...`
 
 ---
+## Contributors ✨
+
+This demo is inspired by the [Chat Application with RAG Feature Toggle and Backend Server](https://github.com/voxic/GCP_RAG_Chatbot/tree/main).
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/muxsin-muxtorov-58b26221b/">
+            <img src="https://x.com/MukhsinMM7/photo" width="100px;" alt=""/><br />
+            <sub><b>Mukhsin Mukhtorov</b></sub>
+        </a><br />
+    </td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 
 ## 🤝 Contributing
 
@@ -339,7 +359,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## 📄 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the --- **[Mozilla Public License Version 2.0](https://choosealicense.com/licenses/mpl-2.0/#)
 
 ---
 
